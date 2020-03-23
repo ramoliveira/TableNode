@@ -74,6 +74,6 @@ extension GameScene: TableNodeDataSource {
 
 5. Everything is working. 🎉
 
-If you have any doubt about how **TableNode** works, you can get help here: [Wiki](https://github.com/ramoliveira/TableNode.wiki)
+If you have any doubt about how **TableNode** works, you can get help here: [Wiki](https://github.com/ramoliveira/TableNode/wiki)
 
 **Disclaimer:** The `TableNode` has more methods than was shown here. And I write about then on Git's Wiki. They have default implementation, and works fine in this way. But, in the future, I expect to make the `TableNode` more customable. 👍🏽
