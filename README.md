@@ -3,6 +3,27 @@ A TableView made of SpriteKit's Node.
 
 [![CocoaPod Badge](https://img.shields.io/badge/CocoaPods-1.0.0-red)](https://cocoapods.org/pods/TableNode)
 
+## CocoaPods
+
+Add this line of code to your `.podfile`:
+
+```ruby
+pod 'TableNode'
+```
+
+For example:
+
+```ruby
+platform :ios, '13.2'
+
+target 'teste' do
+  use_frameworks!
+
+  pod 'TableNode'
+
+end
+```
+
 ## How can you use it?
 
 1. You must import the `TableNode`to your SKScene's class.
