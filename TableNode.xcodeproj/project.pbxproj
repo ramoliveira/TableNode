@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3A5D68DF242811940011D2C4 /* TableNode.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A5D68DD242811940011D2C4 /* TableNode.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3A5D68E6242811A90011D2C4 /* TableNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5D68E5242811A90011D2C4 /* TableNode.swift */; };
+		3A5D6920242837AD0011D2C4 /* TableNode.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A5D68DD242811940011D2C4 /* TableNode.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3A5D6932242839600011D2C4 /* TableNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5D68E5242811A90011D2C4 /* TableNode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,7 +62,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3A5D68DF242811940011D2C4 /* TableNode.h in Headers */,
+				3A5D6920242837AD0011D2C4 /* TableNode.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,7 +135,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3A5D68E6242811A90011D2C4 /* TableNode.swift in Sources */,
+				3A5D6932242839600011D2C4 /* TableNode.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

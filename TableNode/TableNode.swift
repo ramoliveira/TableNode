@@ -91,6 +91,10 @@ public class TableNode: SKNode {
      * - version: 0.0.3
      */
     public func reloadData() {
+        defer {
+            self.setCellsPosition()
+        }
+        
         removeAllChildren()
         cells.removeAll()
         
@@ -105,11 +109,11 @@ public class TableNode: SKNode {
             index.section += 1
         }
         
-        setCellsPosition()
+//        setCellsPosition()
     }
     
     /**
-     *   Gives the cell necessary to
+     *   Gives the cell necessary to TableNode.
      *
      * - parameters:
      *   - identifier: The name that will identify the cell.
