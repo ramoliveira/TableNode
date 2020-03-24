@@ -1,8 +1,7 @@
 # TableNode
 A TableView made of SpriteKit's Node.
 
-## CocoaPods:
-### [TableNodes's page](https://cocoapods.org/pods/TableNode)
+[![CocoaPod Badge](https://img.shields.io/badge/CocoaPods-1.0.0-red)](https://cocoapods.org/pods/TableNode)
 
 ## How can you use it?
 
