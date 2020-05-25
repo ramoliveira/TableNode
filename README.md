@@ -1,5 +1,5 @@
 # TableNode
-A TableView made of SpriteKit's Node.
+A TableView made of SpriteKit Nodes.
 
 [![CocoaPod Badge](https://img.shields.io/badge/CocoaPods-1.0.0-red)](https://cocoapods.org/pods/TableNode)
 
@@ -26,7 +26,7 @@ end
 
 ## How can you use it?
 
-1. You must import the `TableNode`to your SKScene's class.
+1. You must import the `TableNode`to your SKScene class.
 
 ```swift
 import TableNode
